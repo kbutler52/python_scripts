@@ -5,7 +5,7 @@
 class StressRelief:
 def Intro_To_Tranquility(self):
 		print("There are many ways to achieve reduce stress.")
-	def Counting(self);
+    def Counting(self):
 		print("Counting your breaths can be a quick way to reduce stress")
 		for breaths in range(10):
 if breaths %2 == 0:
@@ -14,5 +14,5 @@ if breaths %2 == 0:
 				print("Breath out..."+str(breaths))
 
 steps = StressRelief()
-steps.Intro_To_Tranquility
+steps.Intro_To_Tranquility()
 steps.Counting()
