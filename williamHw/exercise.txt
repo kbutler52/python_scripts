@@ -1,0 +1,19 @@
+05-20-2020
+HW#3
+objective:
+Complete all objectives in the same python named pythonLoop.py
+Write a program taht loops from 0 to 100
+In each loop print the number and if that number is even or odd.
+
+Example Output:
+0 is even
+1 is odd
+2 is even
+3 is odd
+4 is even
+5 is odd
+6 is even
+7 is odd
+8 is even
+9 is odd
+10 is even
