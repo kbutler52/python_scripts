@@ -2,7 +2,7 @@
 HW#3
 objective:
 Complete all objectives in the same python named pythonLoop.py
-Write a program taht loops from 0 to 100
+Write a program that loops from 0 to 100
 In each loop print the number and if that number is even or odd.
 
 Example Output:
